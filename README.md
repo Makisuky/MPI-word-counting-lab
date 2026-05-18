@@ -32,6 +32,22 @@ The laboratory addresses the problem in three progressive stages. The first stag
 
 ---
 
+## Repository Contents
+
+```text
+generator.py
+baseline_secuencial.py
+run_all.sh
+mpi1.py
+mpi2.py
+Readme.md
+.gitignore
+```
+
+The generated `dataset/` folder and the generated CSV files are not required to run the repository because they can be reproduced by running the generator and the implementations. The experimental raw outputs may be stored in `outputs/` as evidence of the execution.
+
+---
+
 ## 2. Environment and Execution Instructions
 
 All experiments were executed inside a Docker container using the image `augustosalazar/slim-mpi:2`, which bundles Python 3, the `mpi4py` library, and a pre-configured Open MPI installation [3][4]. Using Docker ensures a fully reproducible environment — the same compiler versions, interpreter, and library binaries are active regardless of the host operating system. All project files were mounted into the container at the path `/app` using Docker's `-v` volume flag.
