@@ -1,0 +1,28 @@
+Rank 1: assigned_files=1500, local_tokens=22589379, local_time=14.151747 seconds
+Rank 0: assigned_files=1500, local_tokens=22362079, local_time=14.493528 seconds
+
+Dataset processed: /app/dataset
+Query file: consulta.txt
+Files processed: 3000
+Total tokens read: 44951458
+Total occurrences found: 3631778
+Total execution time: 14.530604 seconds
+Execution time: 14.530604 seconds
+
+Top 10 palabras de consulta en el corpus:
+  a: 785774
+  para: 392156
+  sus: 228913
+  otros: 105530
+  ante: 99832
+  unos: 88794
+  otra: 83901
+  vosotros: 61617
+  mios: 58420
+  tuya: 56635
+
+Process summary:
+Rank 0: files=1500, local_time=14.493528 seconds
+Rank 1: files=1500, local_time=14.151747 seconds
+
+Resultados guardados en: /app/dataset/mpi1_results.csv

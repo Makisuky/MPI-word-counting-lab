@@ -1,0 +1,40 @@
+Rank 1: assigned_files=375, local_tokens=5150686, local_time=7.975957 seconds
+Rank 3: assigned_files=375, local_tokens=5488544, local_time=8.171050 seconds
+Rank 5: assigned_files=375, local_tokens=5914137, local_time=8.539361 seconds
+Rank 6: assigned_files=375, local_tokens=5412053, local_time=8.303817 seconds
+Rank 7: assigned_files=375, local_tokens=6036012, local_time=8.743710 seconds
+Rank 4: assigned_files=375, local_tokens=5769736, local_time=8.444104 seconds
+Rank 2: assigned_files=375, local_tokens=6161885, local_time=8.823153 seconds
+Rank 0: assigned_files=375, local_tokens=5018405, local_time=7.785249 seconds
+
+Dataset processed: /app/dataset
+Query file: consulta.txt
+Files processed: 3000
+Total tokens read: 44951458
+Total occurrences found: 3631778
+Total execution time: 8.943007 seconds
+Execution time: 8.943007 seconds
+
+Top 10 palabras de consulta en el corpus:
+  a: 785774
+  para: 392156
+  sus: 228913
+  otros: 105530
+  ante: 99832
+  unos: 88794
+  otra: 83901
+  vosotros: 61617
+  mios: 58420
+  tuya: 56635
+
+Process summary:
+Rank 0: files=375, local_time=7.785249 seconds
+Rank 1: files=375, local_time=7.975957 seconds
+Rank 2: files=375, local_time=8.823153 seconds
+Rank 3: files=375, local_time=8.171050 seconds
+Rank 4: files=375, local_time=8.444104 seconds
+Rank 5: files=375, local_time=8.539361 seconds
+Rank 6: files=375, local_time=8.303817 seconds
+Rank 7: files=375, local_time=8.743710 seconds
+
+Resultados guardados en: /app/dataset/mpi1_results.csv
