@@ -6,7 +6,7 @@
 
 **Course:** Computer Architecture 2 &nbsp;|&nbsp; May 2026
 
-- Repository: `mpi-word-counting-lab`
+- Repository: `MPI-word-counting-lab`
   
 ---
 
