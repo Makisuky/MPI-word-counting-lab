@@ -1,9 +1,13 @@
 # Parallel Word Counting in a Text Corpus with MPI
 
+## Team Information
+
 **Zahir Acosta De La Asunción · Alejandro David Alonso Durán · María Isabel Gutiérrez González · Lucía Isabel Montoya Orozco**
 
 **Course:** Computer Architecture 2 &nbsp;|&nbsp; May 2026
 
+- Repository: `mpi-word-counting-lab`
+  
 ---
 
 ## Table of Contents
